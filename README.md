@@ -11,7 +11,7 @@ Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-FF9900?style=flat-square&logo=google&logoColor=white)
 
 **Bibliotecas de Machine Learning:**
-- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-00599C?style=flat-square&logo=matplotlib)
 
 **Banco de Dados:**
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
