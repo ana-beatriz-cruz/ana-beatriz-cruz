@@ -1,5 +1,5 @@
 ## Oie, Eu sou a Nabí 🙋🏾🤍
-Sou estudante de Administração apaixonada por **Design** e **Tecnologia**. Acredito que que nossas habilidades podem realmente transformar o mundo, por isso tento usar o que aprendo para enfrentar melhorar a vida das pessoas através de soluções práticas e criativas.
+Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **Design** e **Tecnologia**. Acredito que que nossas habilidades podem realmente transformar o mundo, por isso tento usar o que aprendo para enfrentar melhorar a vida das pessoas através de soluções práticas e criativas.
 
 
 ## 🛠️ Tecnologias & Ferramentas
