@@ -1,7 +1,7 @@
-## Oie, Eu sou a Nabí 👋
-Sou uma estudante de Administração com foco em análise de dados, programação e inovação. Apaixonada por explorar como a tecnologia e o design podem transformar o mundo.
+## Oie, Eu sou a Nabí 🙋🏾🤍
+Sou estudante de Administração apaixonada por **Design** e **Tecnologia**. Acredito que que nossas habilidades podem realmente transformar o mundo, por isso tento usar o que aprendo para enfrentar melhorar a vida das pessoas através de soluções práticas e criativas.
 
---------------------------------------
+
 ## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens de Programação:**
@@ -19,17 +19,15 @@ Sou uma estudante de Administração com foco em análise de dados, programaçã
 **Modelagem e Estatística:**
 - ![Modelagem de Banco de Dados](https://img.shields.io/badge/-Modelagem%20de%20Banco%20de%20Dados-007ACC?style=flat-square&logo=github&logoColor=white) ![Estatística com Python](https://img.shields.io/badge/-Estat%C3%ADstica%20com%20Python-306998?style=flat-square&logo=python&logoColor=white)
 
-### Certificações
+### 🎓 Certificações
 - ***Programa Desenvolve***: Trilha de Dados  
   *Emitido pelo Grupo Boticário + Alura*  
   
 - ***Gerenciamento de Projetos***  
   *Google & Coursera*  
-  [Certificado](https://www.google.com/)  
-  *Coursera*  
-  [Certificado](https://www.coursera.org/)
 
 ## 📈 Projetos
+Aqui você encontra alguns dos projetos que estou desenvolvendo. Sinta-se à vontade para explorar e contribuir!
 
 ## 📈 Estatisticas do GitHub
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -41,6 +39,7 @@ Sou uma estudante de Administração com foco em análise de dados, programaçã
 
 
 ## Vamos nos conectar?
+Adoraria conversar sobre projetos de dados, tecnologia ou qualquer outra coisa que você ache interessante!
 <div align="center">
   <a href="https://instagram.com/beatrixlmc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -52,4 +51,3 @@ Sou uma estudante de Administração com foco em análise de dados, programaçã
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-
