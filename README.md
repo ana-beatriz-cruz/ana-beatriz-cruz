@@ -28,14 +28,8 @@ Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **
 
 ## 📈 Projetos
 Aqui você encontra alguns dos projetos que estou desenvolvendo. Sinta-se à vontade para explorar e contribuir!
-
-## 📈 Estatisticas do GitHub
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ana-beatriz-cruz" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ana-beatriz-cruz&layout=compact&langs_count=8&card_width=320" />
-</a>
+- <https://github.com/ana-beatriz-cruz/cresce-aqui> 🌱Classificador de Plantas para Hortas Urbanas (futuramente quero que vire um aplicativo)
+- <https://github.com/ana-beatriz-cruz/clube_do_livro/edit/main/README.md> 📚 Book Dashboard Project - Power BI
 
 
 ## Vamos nos conectar?
