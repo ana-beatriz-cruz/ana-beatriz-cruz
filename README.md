@@ -28,12 +28,15 @@ Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **
 
 ## 📈 Projetos
 Aqui você encontra alguns dos projetos que estou desenvolvendo. Sinta-se à vontade para explorar e contribuir!
-- <https://github.com/ana-beatriz-cruz/cresce-aqui> 🌱Classificador de Plantas para Hortas Urbanas (futuramente quero que vire um aplicativo)
-- <https://github.com/ana-beatriz-cruz/clube_do_livro/edit/main/README.md> 📚 Book Dashboard Project - Power BI
+- 🌱Classificador de Plantas para Hortas Urbanas (futuramente quero que vire um aplicativo) <https://github.com/ana-beatriz-cruz/cresce-aqui> 
+- 📚 Dashboard do clube do livro - Power BI <https://github.com/ana-beatriz-cruz/clube_do_livro/edit/main/README.md> 
 
 
-## Vamos nos conectar?
-Adoraria conversar sobre projetos de dados, tecnologia ou qualquer outra coisa que você ache interessante!
+## Vamos nos conversar?
+Amo trocar ideia e aprender junto! (tenologia, visão de mundo, causas socioambientais, Arte, projetos).
+ Só me dar um Oi🤗!
+
+
 <div align="center">
   <a href="https://instagram.com/beatrixlmc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
