@@ -1,5 +1,9 @@
 ## Oie, Eu sou a Nabí 🙋🏾🤍
-Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **Design** e **Tecnologia**. Acredito que que nossas habilidades podem realmente transformar o mundo, por isso tento usar o que aprendo para enfrentar melhorar a vida das pessoas através de soluções práticas e criativas.
+Cientista de Dados no Grupo Boticário com foco em Marketing Analytics e Eficiência de Portfólio. Minha atuação é pautada pela união entre a visão estratégica da Administração (UFES) e a precisão técnica da Ciência de Dados.
+
+Atualmente, na Squad de Desativações, utilizo Machine Learning e Advanced Analytics para otimizar o ciclo de vida de produtos, transformando dados complexos em decisões de negócio que impactam diretamente a rentabilidade.
+
+Acredito que a tecnologia só cumpre seu papel quando é inclusiva. Sou apaixonada por democratizar o acesso ao conhecimento e utilizo minha base em Humanidades para garantir que as soluções de dados sejam não apenas rentáveis, mas também éticas e acessíveis.
 
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -25,11 +29,6 @@ Sou estudante de Administração e ciencia de dados. Apaixonada por **Arte**, **
   
 - ***Gerenciamento de Projetos***  
   *Google & Coursera*  
-
-## 📈 Projetos
-Aqui você encontra alguns dos projetos que estou desenvolvendo. Sinta-se à vontade para explorar e contribuir!
-- 🌱Classificador de Plantas para Hortas Urbanas (futuramente quero que vire um aplicativo) <https://github.com/ana-beatriz-cruz/cresce-aqui> 
-- 📚 Dashboard do clube do livro - Power BI <https://github.com/ana-beatriz-cruz/clube_do_livro/edit/main/README.md> 
 
 
 ## Vamos nos conversar?
